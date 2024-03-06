@@ -1,1 +1,1 @@
-Hola mundo, prueba nueva rama, prueba subida y clonado en otro equipo
+Hola mundo, prueba nueva rama, prueba subida y clonado en otro equipo, commit desde otro equipo
